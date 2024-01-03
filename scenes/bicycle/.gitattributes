@@ -1,0 +1,1 @@
+full_bicycle.ply filter=lfs diff=lfs merge=lfs -text
